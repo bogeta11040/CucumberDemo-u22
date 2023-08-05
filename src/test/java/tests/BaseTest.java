@@ -35,7 +35,7 @@ public class BaseTest {
         switch (env){
             case "LOCAL":{
                 driver.get("127.0.0.1");
-                println("caos");
+                println("caoss");
             }
             break;
             case "DEV":{
